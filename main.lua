@@ -1,9 +1,3 @@
--------------------------------------------------
--- File name: main.lua
--- Language: Lua
--- Author: Liban Bile
--- Date made: 20/07/2024
--------------------------------------------------
 -- Function to calculate factorial recursively
 function factorial(n)
     if n == 0 then
